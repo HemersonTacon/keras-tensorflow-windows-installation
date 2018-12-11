@@ -41,10 +41,10 @@ echo %PATH%
 ```
 You shall see that the new Environment PATH is there.
 
-### Step 6: Create an Anaconda environment with Python=3.5
+### Step 6: Create an Anaconda environment with Python=3.7
 Open Anaconda Prompt to type the following command(s)
 ```Command Prompt
-conda create -n tensorflow python=3.5 numpy scipy matplotlib spyder
+conda create -n tensorflow python=3.7 numpy scipy matplotlib spyder
 ```
 
 ### Step 7: Activate the environment
